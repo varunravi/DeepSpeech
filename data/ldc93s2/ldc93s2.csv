@@ -1,0 +1,41 @@
+wav_filename,wav_filesize,transcript
+./data/ldc93s2/wav001.wav,370040,lights on
+./data/ldc93s2/wav002.wav,633076,lights off
+./data/ldc93s2/wav003.wav,490412,lights dim
+./data/ldc93s2/wav004.wav,534996,lights bright
+./data/ldc93s2/wav005.wav,517160,increase temperature
+./data/ldc93s2/wav006.wav,659824,decrease temperature
+./data/ldc93s2/wav007.wav,557284,carbon dioxide level
+./data/ldc93s2/wav008.wav,566204,carbon monoxide level
+./data/ldc93s2/wav009.wav,316540,lights on
+./data/ldc93s2/wav010.wav,664284,lights off
+./data/ldc93s2/wav011.wav,436912,lights dim
+./data/ldc93s2/wav012.wav,401248,lights bright
+./data/ldc93s2/wav013.wav,441372,increase temperature
+./data/ldc93s2/wav014.wav,494872,decrease temperature
+./data/ldc93s2/wav015.wav,2679404,carbon dioxide level
+./data/ldc93s2/wav016.wav,575120,carbon monoxide level
+./data/ldc93s2/wav017.wav,326368,lights on
+./data/ldc93s2/wav018.wav,322272,lights off
+./data/ldc93s2/wav019.wav,281312,lights dim
+./data/ldc93s2/wav020.wav,379616,lights bright
+./data/ldc93s2/wav021.wav,400096,increase temperature
+./data/ldc93s2/wav022.wav,383712,decrease temperature
+./data/ldc93s2/wav023.wav,576224,carbon dioxide level
+./data/ldc93s2/wav024.wav,436960,carbon monoxide level
+./data/ldc93s2/wav025.wav,375520,lights on
+./data/ldc93s2/wav026.wav,334560,lights off
+./data/ldc93s2/wav027.wav,305888,lights dim
+./data/ldc93s2/wav028.wav,363232,lights bright
+./data/ldc93s2/wav029.wav,420576,increase temperature
+./data/ldc93s2/wav030.wav,494304,decrease temperature
+./data/ldc93s2/wav031.wav,391904,carbon dioxide level
+./data/ldc93s2/wav032.wav,416480,carbon monoxide level
+./data/ldc93s2/wav033.wav,396000,lights on
+./data/ldc93s2/wav034.wav,391904,lights off
+./data/ldc93s2/wav035.wav,334560,lights dim
+./data/ldc93s2/wav036.wav,355040,lights bright
+./data/ldc93s2/wav037.wav,342752,increase temperature
+./data/ldc93s2/wav038.wav,428768,decrease temperature
+./data/ldc93s2/wav039.wav,371424,carbon dioxide level
+./data/ldc93s2/wav040.wav,400096,carbon monoxide level
